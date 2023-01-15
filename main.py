@@ -2,7 +2,6 @@ import tkinter as tk
 import numpy as np
 from PIL import Image, ImageTk
 from sklearn.cluster import KMeans
-from matplotlib import cm
 
 
 def top_n_colors(img):
